@@ -1,10 +1,10 @@
 import tweepy
 import time
 
-COSUMER_KEY = "ez9Ow7eJve3n9CPLwbbM4AJe9"
-CONSUMER_SECRET = "23K8axqwzyJbPyVSVBP1hFOlf1S1EyJYDO8ea5s0OGQrh0y8Ea"
-ACCESS_TOKEN = "1284523883945590784-epyikGF7eZzVvSj0td19uB0YSyVZ3C"
-ACCESS_TOKEN_SECRET = "RBeRxUQGGgzF6qZsyiOQRfS2rsGfLpCzHWe152mtMVZxo"
+COSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 
 # This is the text file, where I'll store the last seen tweet ID
 LAST_SEEN_TWEETS_FILE_NAME = "Last Seen Tweets.txt"
